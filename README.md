@@ -45,12 +45,12 @@ Once you have your filter url apply it into the .env file
 
 Run the script
 
-    $ nodejs app.js
+    $ node app.js
 
 Use a raspberry pi or a free vm in order to have it running 24 hours.
 
 ## Features
 
  - Autodiscovery of new rooms or flats every 5 minutes.
- - Ad Languagedetection
+ - Ad Language detection
  - Autosend messages to owners every 5 minutes
